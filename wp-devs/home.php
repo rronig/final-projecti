@@ -1,7 +1,8 @@
 <?php
-/*
-Template Name: Homepage
-*/
+/**
+ * Template Name: home
+ */
+
 ?>
 <!DOCTYPE html>
 <html lang="en">
